@@ -8,7 +8,7 @@ Copyright (c) 2026 Bamboo-fiber (Localization & Enhancements)
 This version is a modified fork of the original TrailPrint3D (v2.5) by EmGi. Key modifications:
 1. Full Chinese UI localization across all interface elements
 2. Added "Circle Shape" option to the Shape menu
-3. Implemented "Quick Draw" for rapid sketching
+3. Implemented "Quick Draw" for rapid sketching and map painting
 4. Added customizable base size input (100mm default) with per-shape dimension control
 
 ## License Terms
