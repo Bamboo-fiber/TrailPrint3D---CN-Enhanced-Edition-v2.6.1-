@@ -1,4 +1,4 @@
-# LICENSE - TrailPrint3D CN Enhanced Edition v2.6.1
+# LICENSE - TrailPrint3D CN Enhanced Edition v2.5.1(CN)
 
 ## Copyright
 Copyright (c) 2025 EmGi (Original Creator)
@@ -8,7 +8,7 @@ Copyright (c) 2026 Bamboo-fiber (Localization & Enhancements)
 This version is a modified fork of the original TrailPrint3D (v2.5) by EmGi. Key modifications:
 1. Full Chinese UI localization across all interface elements
 2. Added "Circle Shape" option to the Shape menu
-3. Implemented "Quick Draw / Paint Map" for rapid sketching and map painting
+3. Implemented "Quick Draw" for rapid sketching and map painting
 4. Added customizable base size input (100mm default) with per-shape dimension control
 
 ## License Terms
@@ -26,9 +26,9 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0
 
 ### Attribution Requirements
 When using or distributing this work, you must:
-1. Credit "EmGi (Original TrailPrint3D v2.5)" and "Bamboo-fiber (CN Enhanced Edition v2.6.1)"
+1. Credit "EmGi (Original TrailPrint3D v2.5)" and "Bamboo-fiber (CN Enhanced Edition v2.5.1)"
 2. Provide a link to this repository (replace with your actual repo URL):  
-   https://github.com/Bamboo-fiber/TrailPrint3D---CN-Enhanced-Edition-v2.6.1
+   https://github.com/Bamboo-fiber/TrailPrint3D---CN-Enhanced-Edition-v2.5.1
 3. Indicate if changes were made to the original work
 
 ### Full Legal Text
