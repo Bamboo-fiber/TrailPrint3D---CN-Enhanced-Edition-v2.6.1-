@@ -4,7 +4,7 @@
 
 This project is a customized, fully localized (Chinese), and enhanced fork based on the incredible work of **EmGi** (TrailPrint3D v2.5).
 Huge thanks to EmGi for building this amazing tool!
-As a secondary developer (Bamboo-fiber), I have translated the entire UI into Chinese and added new features including **Quick Draw** mode and a **Circle Shape** base plate.
+As a secondary developer (Bamboo-fiber), I have translated the entire UI into Chinese and added new features including  a **Circle Shape** base plate.
 
 ---
 
@@ -33,10 +33,7 @@ As a secondary developer (Bamboo-fiber), I have translated the entire UI into Ch
 ## ✨ What's New in v2.5.1 (Enhanced Edition)
 
 - **Full Chinese Localization:** The entire UI has been translated into Chinese for better accessibility for Chinese users.
-
 - **New Circle Base Shape:** Added a "Circle" option to the map shapes, allowing you to generate elegant round terrain models.
-
-- **Quick Draw:** Added quick drawing functionality for rapid sketching and map painting.
 
 ## 📖 Core Features
 
@@ -73,10 +70,7 @@ Original code developed by **EmGi**. Localization and enhancements by **Bamboo-f
 This project is a modified fork of EmGi's TrailPrint3D (v2.5). Modifications made by Bamboo-fiber include:
 
 1. Full Chinese Interface Translation
-
 2. Added new "Circle" base shape
-
-3. Added "Quick Draw " feature
 
 ### Data Source Attributions
 
@@ -99,7 +93,7 @@ All data used to generate terrain and maps comes from the following amazing open
 ## 🌟 特别致敬原作者
 
 本项目是基于原作者 **EmGi** 的卓越工作（TrailPrint3D v2.5）进行的深度定制版。在此向 EmGi 表达最崇高的敬意！
-作为二次开发者（竹纤维），我在原版 v2.5 的基础上完成了**界面的全量汉化**，并为其新增了**“快速绘制 (Quick Draw)”**功能以及全新的**“圆形底盘 (Circle Shape)”**选项。
+作为二次开发者（竹纤维），我在原版 v2.5 的基础上完成了**界面的全量汉化**，并为其新增了全新的**“圆形底盘 (Circle Shape)”**选项。
 
 ---
 
@@ -128,10 +122,7 @@ All data used to generate terrain and maps comes from the following amazing open
 ## ✨ 本汉化定制版新增功能 (v2.5.1)
 
 - **全量汉化支持:** 插件面板的全部参数、按钮与提示均已深度汉化，便于国内用户使用。
-
 - **全新圆形底盘 (Circle Shape):** 突破了原版仅支持六边形和正方形的限制，新增“圆形”地图生成选项，让成品更具艺术感。
-
-- **快速绘制功能 (Quick Draw/Paint Map):** 新增了快速绘图功能，可实现快速草图绘制和地图绘制。
 
 ## 📖 核心功能详解
 
@@ -168,10 +159,7 @@ All data used to generate terrain and maps comes from the following amazing open
 本项目是基于 EmGi 原版 TrailPrint3D (v2.5) 的修改衍生版。竹纤维（Bamboo-fiber）进行的修改内容包括：
 
 1. 全量中文界面汉化
-
 2. 新增圆形底盘功能
-
-3. 新增快速绘制功能
 
 ### 数据来源致谢
 
